@@ -1,4 +1,9 @@
-CodeAnt Assignment/.env
+# Environment variable files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
 
 
 # Logs
